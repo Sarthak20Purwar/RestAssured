@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-28T22:21:52 IST" name="Default suite" finished-at="2022-03-28T22:21:54 IST" duration-ms="2563">
+    <groups>
+    </groups>
+    <test started-at="2022-03-28T22:21:52 IST" name="Default test" finished-at="2022-03-28T22:21:54 IST" duration-ms="2563">
+      <class name="Test06_DELETE">
+        <test-method signature="test_delete()[pri:0, instance:Test06_DELETE@6e0dec4a]" started-at="2022-03-28T22:21:52 IST" name="test_delete" finished-at="2022-03-28T22:21:54 IST" duration-ms="2508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_delete -->
+      </class> <!-- Test06_DELETE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
